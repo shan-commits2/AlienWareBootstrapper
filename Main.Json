@@ -1,0 +1,22 @@
+{
+    "SoftwareVersion": "1.0.0",
+    "SoftwareUrl": "https://mega.nz/file/OIR0jZRa#6iLzpRWeUxGQ012jdx2j1njkLHzreCH8YUnRtD1IbPc",
+    "UpdateRequired": false,
+    "FileSizeMB": 200,
+
+    "Developers": "Shan",
+    "Contributor": ["Nelson", "Doge", "Unknown"],
+    "SigmaPeople": ["Bobi", "Nelson", "Unknown", "Doge"],
+
+    "SoftwareName": "AlienWare",
+    "DeveloperGroup": "AlienWare Inc",
+    "SupportedPlatforms": ["Windows"],
+    "PlatformTargetType": ["x64"],
+    "SoftwareType": ["Executor", "Exe"],
+    "Status": "True",
+    "License": "Free",
+    "Changelog": "[+] Test",
+
+    "Discord": "https://discord.gg/TpRshwZu",
+    "Website": "https://shan-commits2.github.io/Alien-Ware/"
+}
