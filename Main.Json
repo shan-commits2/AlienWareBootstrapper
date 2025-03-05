@@ -2,6 +2,7 @@
     "SoftwareVersion": "1.0.0",
     "SoftwareUrl": "https://mega.nz/file/OIR0jZRa#6iLzpRWeUxGQ012jdx2j1njkLHzreCH8YUnRtD1IbPc",
     "UpdateRequired": false,
+    "InBetaTest": true,
     "FileSizeMB": 123.0,
 
     "Developers": "Shan",
