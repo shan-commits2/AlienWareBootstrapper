@@ -15,7 +15,7 @@
     "SupportedPlatforms": ["Windows"],
     "PlatformTargetType": ["x64"],
     "SoftwareType": ["Executor", "Exe"],
-    "Status": "Fixing",
+    "Status": "True",
     "License": "Free",
     "Changelog": "[+] Test",
 
