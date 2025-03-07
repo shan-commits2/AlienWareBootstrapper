@@ -1,8 +1,8 @@
 {
-    "SoftwareVersion": "1.0.1",
+    "SoftwareVersion": "1.0.0",
     "SoftwareUrl": "https://mega.nz/file/OIR0jZRa#6iLzpRWeUxGQ012jdx2j1njkLHzreCH8YUnRtD1IbPc",
     "UpdateRequired": false,
-    "InBetaTest": true,
+    "InBetaTest": false,
     "ScriptAPI": ["CXApi", "CloudyApi"],
     "FileSizeMB": 123.0,
 
@@ -17,7 +17,7 @@
     "SoftwareType": ["Executor", "Exe"],
     "Status": "True",
     "License": "Free",
-    "Changelog": "[+] Test",
+    "Changelog": "[+] None",
 
     "Discord": "https://discord.gg/TpRshwZu",
     "Website": "https://shan-commits2.github.io/Alien-Ware/"
