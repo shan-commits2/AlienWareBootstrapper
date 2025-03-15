@@ -15,7 +15,7 @@
     "SupportedPlatforms": ["Windows"],
     "PlatformTargetType": ["x64"],
     "SoftwareType": ["Executor", "Exe"],
-    "Status": "True",
+    "Status": "False",
     "License": "Free",
     "Changelog": "[+] None",
 
