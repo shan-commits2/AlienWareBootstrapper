@@ -15,7 +15,7 @@
     "SupportedPlatforms": ["Windows"],
     "PlatformTargetType": ["x64"],
     "SoftwareType": ["Executor", "Exe"],
-    "Status": "Fixed",
+    "Status": "True",
     "License": "Free",
     "Changelog": "[+] Added more Uncs (94 unc final)\nInjecting IsNow Faster",
 
