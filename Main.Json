@@ -1,9 +1,9 @@
 {
-    "SoftwareVersion": "1.0.0",
+    "SoftwareVersion": "1.0.1",
     "SoftwareUrl": "https://mega.nz/file/2IgHABQa#mchQLIoou-aZJm7aSXpLXHmz6N1L89K2euFixVpi1No",
     "UpdateRequired": false,
     "InBetaTest": false,
-    "ScriptAPI": ["CXApi", "CloudyApi"],
+    "ScriptAPI": ["CloudyApi"],
     "FileSizeMB": 123.0,
 
     "Developers": "Shan",
@@ -17,7 +17,7 @@
     "SoftwareType": ["Executor", "Exe"],
     "Status": "False",
     "License": "Free",
-    "Changelog": "[+] None",
+    "Changelog": "[+] Added more Uncs (94 unc final)\Injecting IsNow Faster",
 
     "Discord": "https://discord.gg/TpRshwZu",
     "Website": "https://shan-commits2.github.io/Alien-Ware/"
