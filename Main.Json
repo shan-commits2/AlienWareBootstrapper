@@ -1,5 +1,5 @@
 {
-    "SoftwareVersion": "1.0.1",
+    "SoftwareVersion": "1.0.2",
     "SoftwareUrl": "https://mega.nz/file/rMYCBK6Q#9MySDaOG1lLt874jNthvH2cWmgLWQtMi_OKEI-JWdV4",
     "UpdateRequired": false,
     "InBetaTest": false,
@@ -17,7 +17,7 @@
     "SoftwareType": ["Executor", "Exe"],
     "Status": "True",
     "License": "Free",
-    "Changelog": "[+] Added more Uncs (94 unc final)\nInjecting IsNow Faster",
+    "Changelog": "[+] Added more Uncs (94 unc final)\nInjecting IsNow Faster\nAdded little things",
 
     "Discord": "https://discord.gg/TpRshwZu",
     "Website": "https://shan-commits2.github.io/Alien-Ware/"
