@@ -1,10 +1,10 @@
 {
-    "SoftwareVersion": "1.0.2",
+    "SoftwareVersion": "1.0.3",
     "SoftwareUrl": "https://mega.nz/file/vAInnJqK#oSuPQXSS0kQ5lBVGIwhczDeWgNPQtCSUieZ81L4On-U",
     "UpdateRequired": false,
     "InBetaTest": false,
     "ScriptAPI": ["CloudyApi"],
-    "FileSizeMB": 123.0,
+    "FileSizeMB": 171.0,
 
     "Developers": "Shan",
     "Contributor": ["Nelson", "Doge", "Unknown"],
